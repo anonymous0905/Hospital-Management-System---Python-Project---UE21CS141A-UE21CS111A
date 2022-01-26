@@ -1,5 +1,4 @@
 import pyodbc
-import pytest
 from tkinter import *
 import tkinter as tk
 from datetime import datetime
@@ -12,7 +11,6 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
-from twilio.rest import Client
 import os
 server = 'tcp:pesuhms.database.windows.net'
 database = 'pesuhms'

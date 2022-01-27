@@ -12,7 +12,7 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
 import os
-server = 'tcp:pesuhms.database.windows.net'
+server = 'tcp:hmspesu.database.windows.net'
 database = 'pesuhms'
 username = 'shashank'
 password = 'Encoder@1992'

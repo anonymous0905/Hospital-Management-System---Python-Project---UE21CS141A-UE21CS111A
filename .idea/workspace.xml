@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="993b4122-cd5c-41d7-9bfa-31ca1ab762df" name="Changes" comment="Code added from local pycharm project and is being pushed to github">
-      <change afterPath="$PROJECT_DIR$/Azure Table Commands.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/update_default_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/update_tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b1d6fbb7-e702-44c5-9d86-d52dd8ad560a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b1d6fbb7-e702-44c5-9d86-d52dd8ad560a.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +23,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/update_default_data.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/update_tests.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/doclogin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/doclogout.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/discharge.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/main_window.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/new_patient.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/doclogin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Online_consult.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/order_tests.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/prescription.py" root0="SKIP_INSPECTION" />
@@ -93,7 +91,7 @@
       <updated>1643219344771</updated>
       <workItem from="1643219348996" duration="2727000" />
       <workItem from="1643253317797" duration="1585000" />
-      <workItem from="1643303268329" duration="752000" />
+      <workItem from="1643303268329" duration="1070000" />
     </task>
     <servers />
   </component>

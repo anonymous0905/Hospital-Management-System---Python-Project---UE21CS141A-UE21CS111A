@@ -1,0 +1,96 @@
+CREATE TABLE ActivePhysicianID (
+    Name varchar(255),
+    Username varchar(255),
+    Password varchar(255)
+);
+CREATE TABLE Online_consult (
+    FirstName varchar(255),
+    LastName varchar(255),
+    Age varchar(255),
+    Gender varchar(255),
+    Email varchar(255),
+    Physician varchar(255),
+    Problem varchar(255)
+);
+ALTER TABLE Online_consult
+ADD MobileNO varchar(255);
+
+CREATE TABLE Patient_data (
+    UID varchar(255),
+    FirstName varchar(255),
+    LastName varchar(255),
+    Age varchar(255),
+    Gender varchar(255),
+    Height int,
+    Weight int,
+    Insurance varchar(255),
+    Primary_Physician varchar(255),
+    Admission_Time varchar(255),
+    Initial_problem varchar(255),
+    Initial_diagnosis varchar(255),
+    Diagnosis varchar(255),
+    Discharge_time varchar(255),
+    Discharge_summary varchar(255),
+    Address varchar(255),
+    City varchar(255),
+    Email varchar(255)
+);
+DROP TABLE Patient_data
+
+CREATE TABLE Patient_data (
+    UID varchar(255),
+    FirstName varchar(255),
+    LastName varchar(255),
+    Age int,
+    Gender varchar(255),
+    Height int,
+    Weight int,
+    Insurance varchar(255),
+    Primary_Physician varchar(255),
+    Admission_Time varchar(255),
+    Initial_problem varchar(255),
+    Initial_diagnosis varchar(255),
+    Diagnosis varchar(255),
+    Discharge_time varchar(255),
+    Discharge_summary varchar(255),
+    Address varchar(255),
+    City varchar(255),
+    Email varchar(255)
+);
+
+CREATE TABLE Patient_data_archive (
+    UID varchar(255),
+    FirstName varchar(255),
+    LastName varchar(255),
+    Age int,
+    Gender varchar(255),
+    Height int,
+    Weight int,
+    Insurance varchar(255),
+    Primary_Physician varchar(255),
+    Admission_Time varchar(255),
+    Initial_problem varchar(255),
+    Initial_diagnosis varchar(255),
+    Diagnosis varchar(255),
+    Discharge_time varchar(255),
+    Discharge_summary varchar(255),
+    Address varchar(255),
+    City varchar(255),
+    Email varchar(255)
+);
+
+CREATE TABLE PhysicianID (
+    Name varchar(255),
+    Username varchar(255),
+    Password varchar(255)
+);
+
+CREATE TABLE Prescription (
+    Medicine_Name varchar(255),
+    Price int
+)
+
+CREATE TABLE Tests (
+    Test_Name varchar(255),
+    Price int
+)

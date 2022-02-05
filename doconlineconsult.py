@@ -116,25 +116,3 @@ def doconline():
     B1.place(x=250, y=310)
     mainloop()
 
-
-'''reply = T1.get(1.0, "end-1c")
-                message = 'From: online_consult@gsm.com To: shashankvh24@gmail.com\nPatient Name - {0} {1} \nAge - {2} \nGender - {3} \nEmail - {4} \nPhysician - {5} \nProblem / Symptoms - {6} \nReply from Doctor - {7} \nIn case of further questions you can reply to this Email or Contact us on 1800-0000-56'.format(lst3[0][0], lst3[0][1], lst3[0][2], lst3[0][3], lst3[0][4], lst3[0][5], lst3[0][6],reply)
-                s = smtplib.SMTP('smtp.gmail.com', 587)
-
-                # start TLS for security
-                s.starttls()
-
-                # Authentication
-                s.login("pesuhmsproject@gmail.com", "pesu@123")
-
-                # sending the mail
-                s.sendmail("pesuhmsproject@gmail.com", lst3[0][4], message)
-
-                # terminating the session
-                s.quit()
-                cmd6 = "DELETE FROM Online_consult WHERE FirstName = ?"
-                cursor.execute(cmd6, inp[0])
-                cnxn.commit()
-                onlineconsult_window1.destroy()
-                onlineconsult_window.destroy()
-                msgbox.showinfo("Successful","Message sent Successfully")'''

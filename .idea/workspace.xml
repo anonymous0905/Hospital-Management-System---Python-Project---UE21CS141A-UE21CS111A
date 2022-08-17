@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="993b4122-cd5c-41d7-9bfa-31ca1ab762df" name="Changes" comment="Code added from local pycharm project and is being pushed to github">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b1d6fbb7-e702-44c5-9d86-d52dd8ad560a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b1d6fbb7-e702-44c5-9d86-d52dd8ad560a.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b1d6fbb7-e702-44c5-9d86-d52dd8ad560a/storage_v2/_src_/database/pesuhms.l7We1w/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b1d6fbb7-e702-44c5-9d86-d52dd8ad560a/storage_v2/_src_/database/pesuhms.l7We1w/schema/dbo.sYMBAA.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doconlineconsult.py" beforeDir="false" afterPath="$PROJECT_DIR$/doconlineconsult.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +98,14 @@
       <workItem from="1643771406339" duration="96000" />
       <workItem from="1643786967006" duration="667000" />
       <workItem from="1643901333756" duration="8278000" />
+      <workItem from="1644050734007" duration="11000" />
+      <workItem from="1645020912629" duration="799000" />
+      <workItem from="1646492055836" duration="5000" />
+      <workItem from="1647919861881" duration="205000" />
+      <workItem from="1647963797247" duration="89000" />
+      <workItem from="1652607087472" duration="637000" />
+      <workItem from="1654227586643" duration="600000" />
+      <workItem from="1657972515931" duration="821000" />
     </task>
     <servers />
   </component>
